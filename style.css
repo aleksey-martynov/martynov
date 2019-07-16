@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'sf_pro_displaysemibold';
+    src: url('../fonts/sf_pro_displaysemibold/sf-pro-display-semibold-webfont.eot');
+    src: url('../fonts/sf_pro_displaysemibold/sf-pro-display-semibold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/sf_pro_displaysemibold/sf-pro-display-semibold-webfont.woff2') format('woff2'),
+         url('../fonts/sf_pro_displaysemibold/sf-pro-display-semibold-webfont.woff') format('woff'),
+         url('../fonts/sf_pro_displaysemibold/sf-pro-display-semibold-webfont.ttf') format('truetype'),
+         url('../fonts/sf_pro_displaysemibold/sf-pro-display-semibold-webfont.svg#sf_pro_displaysemibold') format('svg');
+    font-weight: normal;
+    font-style: normal;}
+
+@font-face {font-family: 'sf_pro_displaylight';
+    src: url('../fonts/sf_pro_displaylight/sf-pro-display-light-webfont.eot');
+    src: url('../fonts/sf_pro_displaylight/sf-pro-display-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/sf_pro_displaylight/sf-pro-display-light-webfont.woff2') format('woff2'),
+         url('../fonts/sf_pro_displaylight/sf-pro-display-light-webfont.woff') format('woff'),
+         url('../fonts/sf_pro_displaylight/sf-pro-display-light-webfont.ttf') format('truetype'),
+         url('../fonts/sf_pro_displaylight/sf-pro-display-light-webfont.svg#sf_pro_displaylight') format('svg');
+    font-weight: normal;
+    font-style: normal;}
+
+    h1 {text-align: center; /* Выравнивание по центру */
+        color:  rgb(150, 150, 150);/* Цвет заголовка */
+        font-family: display-Bold, sans-serif;/* шрифт */
+        font-size: 200%;/* размер шрифта */}
+    a   {text-align: justify; /* Выравнивание по ширине */
+        font-family: display-Bold, sans-serif;/* шрифт */
+        color:  rgb(0, 0, 200);/* Цвет текста */
+        font-size: 14pt;/* размер шрифта */}
+    h2 {text-align: left; /* Выравнивание по центру */
+        font-family: display-Bold, sans-serif;/* шрифт */
+        color:  rgb(150, 150, 150);/* Цвет заголовка */
+        font-size: 16pt;/* размер шрифта */}
+    p  {text-align: justify; /* Выравнивание по ширине */
+        font-family: display-Bold, sans-serif;/* шрифт */
+        color:  rgb(0, 0, 0);/* Цвет текста */
+        font-size: 12pt;/* размер шрифта */}
